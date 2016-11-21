@@ -27,6 +27,7 @@ public class GridCeilFadeIn : GridCeilTweenBase
 
     private void ItemsTweenStep1()
     {
+        /*
         ceilIndex++;
 
         Transform curChild = gridTran.GetChild(ceilIndex);
@@ -41,12 +42,11 @@ public class GridCeilFadeIn : GridCeilTweenBase
 
         if (ceilIndex < gridTran.childCount - 1)
         {
-            /*
             StartCoroutine(DelayCallFun.DoDelay(() =>
             {
                 ItemsTweenStep1();
             }, this.ceilTweenInterval));
-             * */
         }
+         * */
     }
 }

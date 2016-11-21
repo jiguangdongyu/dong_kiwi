@@ -8,8 +8,8 @@ using System.Collections.Generic;
 public class LevelMgr
 {
     private LevelListener m_levelListener;
-    private bool m_loadingScene;                  //过渡场景
-    private string m_loadingSceneName;            //过渡场景名
+    private bool m_loadingScene;                        //过渡场景
+    private string m_loadingSceneName;                  //过渡场景名
     private readonly List<string> m_sceneBundleList;    //
 
     private AsyncOperation m_async;
@@ -17,11 +17,24 @@ public class LevelMgr
     private bool m_bAlmostLoaded = false;
     private float m_additionalLoadingTime;
 
+    /// <summary>
+    /// 释放前面场景加载的资源
+    /// </summary>
     private static void ClearOldSceneResources()
+    {
+        App.ResourcesManager.ClearAllCacheAsset();
+    }
+
+    public void Start()
     {
 
     }
 
+    /// <summary>
+    /// 同步切换场景
+    /// </summary>
+    /// <param name="sceneName"></param>
+    /// <param name="listener"></param>
     public void LoadLevel(string sceneName, LevelListener listener)
     {
         Logger.LogYellow("load level:" + sceneName);
@@ -46,6 +59,11 @@ public class LevelMgr
         }
     }
 
+    /// <summary>
+    /// 异步切换场景
+    /// </summary>
+    /// <param name="sceneName"></param>
+    /// <param name="listener"></param>
     public void LoadLevelAsync(string sceneName, LevelListener listener)
     {
         m_async = null;
@@ -73,6 +91,9 @@ public class LevelMgr
         }
     }
 
+    /// <summary>
+    /// 场景开始加载
+    /// </summary>
     private void SetStartLoading()
     {
         m_loadingScene = true;
@@ -83,13 +104,13 @@ public class LevelMgr
     {
         m_loadingTime += Time.deltaTime;
 
-        if (m_loadingScene && m_loadingTime > 0.1f)             //预留0.1s再开始加载
+        if (m_loadingScene && m_loadingTime > 0.1f)                         //预留0.1s再开始加载
         {
             if (this.m_async != null)
             {
-                if (!m_bAlmostLoaded && m_async.progress >= 0.9f)        //进度最多到0.9f
+                if (!m_bAlmostLoaded && m_async.progress >= 0.9f)           //进度最多到0.9f
                 {
-                    m_async.allowSceneActivation = true;                //进入异步加载的场景
+                    m_async.allowSceneActivation = true;                    //进入异步加载的场景
                     m_bAlmostLoaded = true;
                     m_additionalLoadingTime = 0;
                     return;
@@ -99,7 +120,7 @@ public class LevelMgr
                     if (m_bAlmostLoaded)
                     {
                         m_additionalLoadingTime += Time.deltaTime;
-                        if (m_additionalLoadingTime < 0.1f)           //进入场景后预留0.1f做相应处理
+                        if (m_additionalLoadingTime < 0.1f)                 //进入场景后预留0.1f做相应处理
                         {
                             return;
                         }

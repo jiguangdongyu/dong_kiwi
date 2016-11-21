@@ -17,10 +17,9 @@ public class Test : MonoBehaviour
 
     void OnClick()
     {
-        LevelMgr mg = new LevelMgr();
         LevelListener ll = new LevelListener();
         ll.callBack = TT;
-        mg.LoadLevelAsync(sceneName, ll);
+        App.LevelManager.LoadLevelAsync(sceneName, ll);
     }
 
     void TT(string name)

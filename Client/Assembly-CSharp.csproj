@@ -154,6 +154,9 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Scripts\Assets\LevelListener.cs" />
      <Compile Include="Assets\Scripts\Assets\LevelMgr.cs" />
+     <Compile Include="Assets\Scripts\Assets\ResListener.cs" />
+     <Compile Include="Assets\Scripts\Assets\ResourcesMgr.cs" />
+     <Compile Include="Assets\Scripts\Main\App.cs" />
      <Compile Include="Assets\Scripts\Main\Logger.cs" />
      <Compile Include="Assets\Scripts\Main\StartPoint.cs" />
      <Compile Include="Assets\Scripts\Test\Test.cs" />

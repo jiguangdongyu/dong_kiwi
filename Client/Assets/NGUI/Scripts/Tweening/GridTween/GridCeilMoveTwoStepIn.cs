@@ -32,6 +32,7 @@ public class GridCeilMoveTwoStepIn : GridCeilTweenBase
 
     private void ItemsTweenStep1()
     {
+        /*
         ceilIndex++;
         Transform curChild = gridTran.GetChild(ceilIndex);
         //curChild.gameObject.SetActive(true);
@@ -53,6 +54,7 @@ public class GridCeilMoveTwoStepIn : GridCeilTweenBase
                 ItemsTweenStep2();
             }, this.tweenDuration));
         }
+         * */
     }
 
     private void ItemsTweenStep2()
