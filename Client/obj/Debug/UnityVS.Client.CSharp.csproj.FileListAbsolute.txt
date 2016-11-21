@@ -1,0 +1,11 @@
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\obj\Debug\UnityVS.Client.CSharp.csprojResolveAssemblyReference.cache
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\obj\Debug\Assembly-CSharp.dll
+F:\Myworkspace\DongPrivate\dong_kiwi\Client\obj\Debug\Assembly-CSharp.pdb
