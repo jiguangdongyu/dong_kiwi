@@ -61,3 +61,8 @@ public class GameState
 public class GameStateParam
 {
 }
+
+public class GameStateID
+{
+    public const int ST_BOOT = 1;
+}

@@ -1,3 +1,529 @@
 Base path: D:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-8180
+Pipe name: \\.\pipe\UnityShaderCompiler-1-10748
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4216 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4216 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2255 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2255 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1783 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1783 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3968 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3968 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=438 outsize=1184 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2255 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2255 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  error: 2 plat 15 at (10): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (21): Bad characters in source file
+  error: 2 plat 15 at (22): Syntax error
+  error: 2 plat 15 at (23): Bad characters in source file
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (26): Syntax error
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  error: 2 plat 15 at (37): Bad characters in source file
+  insize=990 outsize=917 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (9): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (20): Bad characters in source file
+  error: 2 plat 15 at (21): Syntax error
+  error: 2 plat 15 at (22): Bad characters in source file
+  error: 2 plat 15 at (23): Bad characters in source file
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (25): Syntax error
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  insize=964 outsize=891 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (11): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (21): Bad characters in source file
+  error: 2 plat 15 at (22): Syntax error
+  error: 2 plat 15 at (23): Bad characters in source file
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (26): Syntax error
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  error: 2 plat 15 at (37): Bad characters in source file
+  insize=987 outsize=938 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (11): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (21): Bad characters in source file
+  error: 2 plat 15 at (22): Syntax error
+  error: 2 plat 15 at (23): Bad characters in source file
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (26): Syntax error
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  error: 2 plat 15 at (37): Bad characters in source file
+  insize=947 outsize=938 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (11): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (21): Bad characters in source file
+  error: 2 plat 15 at (22): Syntax error
+  error: 2 plat 15 at (23): Bad characters in source file
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (26): Syntax error
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  error: 2 plat 15 at (37): Bad characters in source file
+  insize=987 outsize=978 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (11): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (21): Bad characters in source file
+  error: 2 plat 15 at (22): Syntax error
+  error: 2 plat 15 at (23): Bad characters in source file
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (26): Syntax error
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  error: 2 plat 15 at (37): Bad characters in source file
+  insize=989 outsize=980 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (11): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (21): Bad characters in source file
+  error: 2 plat 15 at (22): Syntax error
+  error: 2 plat 15 at (23): Bad characters in source file
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (26): Syntax error
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  error: 2 plat 15 at (37): Bad characters in source file
+  insize=997 outsize=988 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (12): Giving up. Parser is hopelessly lost...
+  error: 2 plat 15 at (22): Bad characters in source file
+  error: 2 plat 15 at (23): Syntax error
+  error: 2 plat 15 at (24): Bad characters in source file
+  error: 2 plat 15 at (25): Bad characters in source file
+  error: 2 plat 15 at (26): Bad characters in source file
+  error: 2 plat 15 at (27): Bad characters in source file
+  error: 2 plat 15 at (27): Syntax error
+  error: 2 plat 15 at (28): Bad characters in source file
+  error: 2 plat 15 at (29): Bad characters in source file
+  error: 2 plat 15 at (30): Bad characters in source file
+  error: 2 plat 15 at (31): Bad characters in source file
+  error: 2 plat 15 at (32): Bad characters in source file
+  error: 2 plat 15 at (33): Bad characters in source file
+  error: 2 plat 15 at (34): Bad characters in source file
+  error: 2 plat 15 at (35): Bad characters in source file
+  error: 2 plat 15 at (36): Bad characters in source file
+  error: 2 plat 15 at (37): Bad characters in source file
+  error: 2 plat 15 at (38): Bad characters in source file
+  insize=998 outsize=989 ok=0
+Cmd: preprocess
+  insize=433 outsize=1179 ok=1
+Cmd: preprocess
+  insize=453 outsize=1180 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4236 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4236 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2275 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2275 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1803 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1803 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3988 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3988 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=547 outsize=1274 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4236 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4236 outsize=360 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2275 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2275 outsize=536 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1803 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1803 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3988 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3988 outsize=297 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=557 outsize=1284 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2275 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2275 outsize=355 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  error: 2 plat 1 at (22): undefined variable "_ConstructY"
+  error: 2 plat 1 at (30): undefined variable "_ConstructColor"
+  error: 2 plat 1 at (31): undefined variable "c_ConstructColor"
+  insize=694 outsize=1255 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (33): undefined variable "c_ConstructColor"
+  insize=740 outsize=1301 ok=0
+Cmd: preprocess
+  insize=739 outsize=1283 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4563 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4563 outsize=472 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2571 outsize=865 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2571 outsize=660 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1985 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1985 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4284 outsize=1052 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4284 outsize=460 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2571 outsize=707 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2571 outsize=478 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=744 outsize=1288 ok=1
+Cmd: preprocess
+  error: 2 plat 15 at (23): Syntax error
+  insize=869 outsize=408 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (36): expression left of ."Metallic" is not a struct or array
+  error: 2 plat 1 at (37): expression left of ."Smoothness" is not a struct or array
+  insize=809 outsize=1370 ok=0
+Cmd: preprocess
+  insize=892 outsize=1333 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4668 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4668 outsize=557 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2676 outsize=865 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2676 outsize=745 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2204 outsize=605 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2204 outsize=276 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4389 outsize=1052 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4389 outsize=545 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2676 outsize=707 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2676 outsize=563 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=901 outsize=1344 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4666 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4666 outsize=557 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2674 outsize=865 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2674 outsize=745 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2202 outsize=605 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2202 outsize=276 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4387 outsize=1052 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4387 outsize=545 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2674 outsize=707 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2674 outsize=563 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (13): Duplicate #pragma surface found, ignoring: #pragma surface surf Unlit fullforwardshadows
+  insize=1065 outsize=1343 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4832 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4832 outsize=557 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2840 outsize=865 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2840 outsize=745 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2368 outsize=605 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2368 outsize=276 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4553 outsize=1052 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4553 outsize=545 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2840 outsize=707 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2840 outsize=563 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=1067 outsize=994 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4846 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4846 outsize=433 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2731 outsize=799 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2731 outsize=239 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2731 outsize=641 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2731 outsize=239 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=1121 outsize=994 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4900 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4900 outsize=433 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2785 outsize=799 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2785 outsize=239 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2785 outsize=641 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2785 outsize=239 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  error: 2 plat 15 at (28): Syntax error
+  insize=1161 outsize=463 ok=0
+Cmd: preprocess
+  error: 2 plat 15 at (29): Syntax error
+  insize=1211 outsize=463 ok=0
+Cmd: preprocess
+  insize=1153 outsize=995 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4932 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4932 outsize=433 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2817 outsize=799 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2817 outsize=239 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2817 outsize=641 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2817 outsize=239 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=1190 outsize=993 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4969 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4969 outsize=610 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2854 outsize=799 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2854 outsize=481 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2854 outsize=641 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2854 outsize=481 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  error: 2 plat 1 at (33): expression left of ."rgba" is not a struct or array
+  insize=1178 outsize=1740 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (33): expression left of ."rgb" is not a struct or array
+  insize=1177 outsize=1739 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (33): expression left of ."r" is not a struct or array; expression left of ."g" is not a struct or array; expression left of ."b" is not a struct or array; expression left of ."a" is not a struct or array
+  insize=1189 outsize=1751 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (33): expression left of ."rgb" is not a struct or array; expression left of ."a" is not a struct or array
+  insize=1183 outsize=1745 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (33): expression left of ."color" is not a struct or array
+  insize=1181 outsize=1743 ok=0
+Cmd: preprocess
+  insize=1139 outsize=994 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4918 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4918 outsize=433 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2803 outsize=799 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2803 outsize=239 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2803 outsize=641 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2803 outsize=239 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=1284 outsize=994 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5063 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5063 outsize=570 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3083 outsize=865 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3083 outsize=550 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3083 outsize=707 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3083 outsize=550 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=1310 outsize=995 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5089 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5089 outsize=570 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3109 outsize=865 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3109 outsize=550 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3109 outsize=707 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3109 outsize=550 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  error: 2 plat 1 at (31): undefined variable "viewDir"
+  insize=1333 outsize=1895 ok=0
+Cmd: preprocess
+  insize=1348 outsize=995 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5127 outsize=1066 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5127 outsize=570 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3147 outsize=865 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3147 outsize=550 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3147 outsize=707 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3147 outsize=550 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=1385 outsize=995 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5344 outsize=1090 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5344 outsize=783 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3334 outsize=905 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3334 outsize=762 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3334 outsize=740 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3334 outsize=762 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  error: 2 plat 15 at (30): Syntax error
+  error: 2 plat 15 at (39): Syntax error
+  insize=1401 outsize=479 ok=0
+Cmd: preprocess
+  insize=1385 outsize=995 ok=1
+Cmd: preprocess
+  insize=1481 outsize=995 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5407 outsize=1090 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5407 outsize=987 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3430 outsize=905 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3430 outsize=956 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3430 outsize=740 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3430 outsize=956 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=1517 outsize=1030 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=5407 outsize=1090 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=5407 outsize=987 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3430 outsize=905 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3430 outsize=956 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3430 outsize=740 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3430 outsize=956 kw=DIRECTIONAL SHADOWS_OFF ok=1

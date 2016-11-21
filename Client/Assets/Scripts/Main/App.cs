@@ -10,23 +10,28 @@ public class App
     private static App m_app;
     private LevelMgr m_levelMgr = new LevelMgr();
     private ResourcesMgr m_resourcesMgr = new ResourcesMgr();
+    private Game m_game = new Game();
     GameObject m_globalGameObject;
 
     public void Start()
     {
         m_levelMgr.Start();
         m_resourcesMgr.Start();
+
+        m_game.Start();
     }
 
     public void Update()
     {
         m_levelMgr.Update();
         m_resourcesMgr.Update();
+
+        m_game.Update();
     }
 
     public void LateUpdate()
     {
-
+        m_game.LateUpdate();
     }
 
     public static void Create(GameObject obj = null)
@@ -46,7 +51,12 @@ public class App
         }
     }
 
-    public static LevelMgr LevelManager
+    public static Game Game
+    {
+        get { return m_app.m_game; }
+    }
+
+    public static LevelMgr LevelMgr
     {
         get
         {
@@ -54,7 +64,7 @@ public class App
         }
     }
 
-    public static ResourcesMgr ResourcesManager
+    public static ResourcesMgr ResourcesMgr
     {
         get
         {

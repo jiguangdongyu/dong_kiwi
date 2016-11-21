@@ -8,6 +8,6 @@ public class GameStateFactory
 {
     public static void Build(GameStateMgr gsm)
     {
-
+        gsm.Register(new BootState(GameStateID.ST_BOOT));
     }
 }

@@ -156,10 +156,14 @@
      <Compile Include="Assets\Scripts\Assets\LevelMgr.cs" />
      <Compile Include="Assets\Scripts\Assets\ResListener.cs" />
      <Compile Include="Assets\Scripts\Assets\ResourcesMgr.cs" />
+     <Compile Include="Assets\Scripts\Effects\BuildingTimer.cs" />
      <Compile Include="Assets\Scripts\GameLogic\Game.cs" />
+     <Compile Include="Assets\Scripts\GameLogic\GameState\BootState.cs" />
      <Compile Include="Assets\Scripts\GameLogic\GameState\GameState.cs" />
      <Compile Include="Assets\Scripts\GameLogic\GameState\GameStateFactory.cs" />
      <Compile Include="Assets\Scripts\GameLogic\GameState\GameStateMgr.cs" />
+     <Compile Include="Assets\Scripts\GameLogic\GameState\LoadingState.cs" />
+     <Compile Include="Assets\Scripts\GameLogic\GameState\SwitchingState.cs" />
      <Compile Include="Assets\Scripts\Main\App.cs" />
      <Compile Include="Assets\Scripts\Main\Logger.cs" />
      <Compile Include="Assets\Scripts\Main\StartPoint.cs" />
@@ -184,6 +188,7 @@
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored Shine.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\Custom Assets\Shader\3DPrinter.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored Additive Scroll 3.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />

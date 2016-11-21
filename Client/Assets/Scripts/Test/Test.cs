@@ -19,7 +19,7 @@ public class Test : MonoBehaviour
     {
         LevelListener ll = new LevelListener();
         ll.callBack = TT;
-        App.LevelManager.LoadLevelAsync(sceneName, ll);
+        App.LevelMgr.LoadLevelAsync(sceneName, ll);
     }
 
     void TT(string name)

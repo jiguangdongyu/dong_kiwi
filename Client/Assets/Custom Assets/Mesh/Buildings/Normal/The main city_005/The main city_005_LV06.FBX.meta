@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: f52d95efe83a4134d8e83997f06403be
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: mr Area Omni01
+    100002: mr Area Omni02
+    100004: mr Area Omni03
+    100006: Particle View 01
+    100008: Particle View 01 1
+    100010: Particle View 01 10
+    100012: Particle View 01 100
+    100014: Particle View 01 101
+    100016: Particle View 01 102
+    100018: Particle View 01 103
+    100020: Particle View 01 11
+    100022: Particle View 01 12
+    100024: Particle View 01 13
+    100026: Particle View 01 14
+    100028: Particle View 01 15
+    100030: Particle View 01 16
+    100032: Particle View 01 17
+    100034: Particle View 01 18
+    100036: Particle View 01 19
+    100038: Particle View 01 2
+    100040: Particle View 01 20
+    100042: Particle View 01 21
+    100044: Particle View 01 22
+    100046: Particle View 01 23
+    100048: Particle View 01 24
+    100050: Particle View 01 25
+    100052: Particle View 01 26
+    100054: Particle View 01 27
+    100056: Particle View 01 28
+    100058: Particle View 01 29
+    100060: Particle View 01 3
+    100062: Particle View 01 30
+    100064: Particle View 01 31
+    100066: Particle View 01 32
+    100068: Particle View 01 33
+    100070: Particle View 01 34
+    100072: Particle View 01 35
+    100074: Particle View 01 36
+    100076: Particle View 01 37
+    100078: Particle View 01 38
+    100080: Particle View 01 39
+    100082: Particle View 01 4
+    100084: Particle View 01 40
+    100086: Particle View 01 41
+    100088: Particle View 01 42
+    100090: Particle View 01 43
+    100092: Particle View 01 44
+    100094: Particle View 01 45
+    100096: Particle View 01 46
+    100098: Particle View 01 47
+    100100: Particle View 01 48
+    100102: Particle View 01 49
+    100104: Particle View 01 5
+    100106: Particle View 01 50
+    100108: Particle View 01 51
+    100110: Particle View 01 52
+    100112: Particle View 01 53
+    100114: Particle View 01 54
+    100116: Particle View 01 55
+    100118: Particle View 01 56
+    100120: Particle View 01 57
+    100122: Particle View 01 58
+    100124: Particle View 01 59
+    100126: Particle View 01 6
+    100128: Particle View 01 60
+    100130: Particle View 01 61
+    100132: Particle View 01 62
+    100134: Particle View 01 63
+    100136: Particle View 01 64
+    100138: Particle View 01 65
+    100140: Particle View 01 66
+    100142: Particle View 01 67
+    100144: Particle View 01 68
+    100146: Particle View 01 69
+    100148: Particle View 01 7
+    100150: Particle View 01 70
+    100152: Particle View 01 71
+    100154: Particle View 01 72
+    100156: Particle View 01 73
+    100158: Particle View 01 74
+    100160: Particle View 01 75
+    100162: Particle View 01 76
+    100164: Particle View 01 77
+    100166: Particle View 01 78
+    100168: Particle View 01 79
+    100170: Particle View 01 8
+    100172: Particle View 01 80
+    100174: Particle View 01 81
+    100176: Particle View 01 82
+    100178: Particle View 01 83
+    100180: Particle View 01 84
+    100182: Particle View 01 85
+    100184: Particle View 01 86
+    100186: Particle View 01 87
+    100188: Particle View 01 88
+    100190: Particle View 01 89
+    100192: Particle View 01 9
+    100194: Particle View 01 90
+    100196: Particle View 01 91
+    100198: Particle View 01 92
+    100200: Particle View 01 93
+    100202: Particle View 01 94
+    100204: Particle View 01 95
+    100206: Particle View 01 96
+    100208: Particle View 01 97
+    100210: Particle View 01 98
+    100212: Particle View 01 99
+    100214: The main city_005_LV01
+    100216: The main city_005_LV02
+    100218: The main city_005_LV03
+    100220: The main city_005_LV04
+    100222: The main city_005_LV05
+    100224: The main city_005_LV06
+    100226: //RootNode
+    100228: The main city_005_LV07
+    100230: The main city_005_LV08
+    100232: The main city_005_LV09
+    100234: The main city_005_LV10
+    100236: The main city_005_LV11
+    400000: mr Area Omni01
+    400002: mr Area Omni02
+    400004: mr Area Omni03
+    400006: Particle View 01
+    400008: Particle View 01 1
+    400010: Particle View 01 10
+    400012: Particle View 01 100
+    400014: Particle View 01 101
+    400016: Particle View 01 102
+    400018: Particle View 01 103
+    400020: Particle View 01 11
+    400022: Particle View 01 12
+    400024: Particle View 01 13
+    400026: Particle View 01 14
+    400028: Particle View 01 15
+    400030: Particle View 01 16
+    400032: Particle View 01 17
+    400034: Particle View 01 18
+    400036: Particle View 01 19
+    400038: Particle View 01 2
+    400040: Particle View 01 20
+    400042: Particle View 01 21
+    400044: Particle View 01 22
+    400046: Particle View 01 23
+    400048: Particle View 01 24
+    400050: Particle View 01 25
+    400052: Particle View 01 26
+    400054: Particle View 01 27
+    400056: Particle View 01 28
+    400058: Particle View 01 29
+    400060: Particle View 01 3
+    400062: Particle View 01 30
+    400064: Particle View 01 31
+    400066: Particle View 01 32
+    400068: Particle View 01 33
+    400070: Particle View 01 34
+    400072: Particle View 01 35
+    400074: Particle View 01 36
+    400076: Particle View 01 37
+    400078: Particle View 01 38
+    400080: Particle View 01 39
+    400082: Particle View 01 4
+    400084: Particle View 01 40
+    400086: Particle View 01 41
+    400088: Particle View 01 42
+    400090: Particle View 01 43
+    400092: Particle View 01 44
+    400094: Particle View 01 45
+    400096: Particle View 01 46
+    400098: Particle View 01 47
+    400100: Particle View 01 48
+    400102: Particle View 01 49
+    400104: Particle View 01 5
+    400106: Particle View 01 50
+    400108: Particle View 01 51
+    400110: Particle View 01 52
+    400112: Particle View 01 53
+    400114: Particle View 01 54
+    400116: Particle View 01 55
+    400118: Particle View 01 56
+    400120: Particle View 01 57
+    400122: Particle View 01 58
+    400124: Particle View 01 59
+    400126: Particle View 01 6
+    400128: Particle View 01 60
+    400130: Particle View 01 61
+    400132: Particle View 01 62
+    400134: Particle View 01 63
+    400136: Particle View 01 64
+    400138: Particle View 01 65
+    400140: Particle View 01 66
+    400142: Particle View 01 67
+    400144: Particle View 01 68
+    400146: Particle View 01 69
+    400148: Particle View 01 7
+    400150: Particle View 01 70
+    400152: Particle View 01 71
+    400154: Particle View 01 72
+    400156: Particle View 01 73
+    400158: Particle View 01 74
+    400160: Particle View 01 75
+    400162: Particle View 01 76
+    400164: Particle View 01 77
+    400166: Particle View 01 78
+    400168: Particle View 01 79
+    400170: Particle View 01 8
+    400172: Particle View 01 80
+    400174: Particle View 01 81
+    400176: Particle View 01 82
+    400178: Particle View 01 83
+    400180: Particle View 01 84
+    400182: Particle View 01 85
+    400184: Particle View 01 86
+    400186: Particle View 01 87
+    400188: Particle View 01 88
+    400190: Particle View 01 89
+    400192: Particle View 01 9
+    400194: Particle View 01 90
+    400196: Particle View 01 91
+    400198: Particle View 01 92
+    400200: Particle View 01 93
+    400202: Particle View 01 94
+    400204: Particle View 01 95
+    400206: Particle View 01 96
+    400208: Particle View 01 97
+    400210: Particle View 01 98
+    400212: Particle View 01 99
+    400214: The main city_005_LV01
+    400216: The main city_005_LV02
+    400218: The main city_005_LV03
+    400220: The main city_005_LV04
+    400222: The main city_005_LV05
+    400224: The main city_005_LV06
+    400226: //RootNode
+    400228: The main city_005_LV07
+    400230: The main city_005_LV08
+    400232: The main city_005_LV09
+    400234: The main city_005_LV10
+    400236: The main city_005_LV11
+    2300000: The main city_005_LV01
+    2300002: The main city_005_LV02
+    2300004: The main city_005_LV03
+    2300006: The main city_005_LV04
+    2300008: The main city_005_LV05
+    2300010: The main city_005_LV06
+    2300012: The main city_005_LV07
+    2300014: The main city_005_LV08
+    2300016: The main city_005_LV09
+    2300018: The main city_005_LV10
+    2300020: The main city_005_LV11
+    2300022: //RootNode
+    3300000: The main city_005_LV01
+    3300002: The main city_005_LV02
+    3300004: The main city_005_LV03
+    3300006: The main city_005_LV04
+    3300008: The main city_005_LV05
+    3300010: The main city_005_LV06
+    3300012: The main city_005_LV07
+    3300014: The main city_005_LV08
+    3300016: The main city_005_LV09
+    3300018: The main city_005_LV10
+    3300020: The main city_005_LV11
+    3300022: //RootNode
+    4300000: The main city_005_LV07
+    4300002: The main city_005_LV01
+    4300004: The main city_005_LV03
+    4300006: The main city_005_LV08
+    4300008: The main city_005_LV05
+    4300010: The main city_005_LV02
+    4300012: The main city_005_LV04
+    4300014: The main city_005_LV06
+    4300016: The main city_005_LV09
+    4300018: The main city_005_LV10
+    4300020: The main city_005_LV11
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

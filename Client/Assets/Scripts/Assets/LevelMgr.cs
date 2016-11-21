@@ -22,7 +22,7 @@ public class LevelMgr
     /// </summary>
     private static void ClearOldSceneResources()
     {
-        App.ResourcesManager.ClearAllCacheAsset();
+        App.ResourcesMgr.ClearAllCacheAsset();
     }
 
     public void Start()
