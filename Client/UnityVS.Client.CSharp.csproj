@@ -178,6 +178,7 @@
     <Compile Include="Assets\Scripts\Main\Logger.cs" />
     <Compile Include="Assets\Scripts\Main\StartPoint.cs" />
     <Compile Include="Assets\Scripts\Test\Test.cs" />
+    <Compile Include="Assets\Scripts\Utilities\CustomUpdater.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Custom Assets\Shader\3DPrinter.shader" />

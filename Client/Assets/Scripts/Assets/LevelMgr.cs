@@ -92,6 +92,38 @@ public class LevelMgr
     }
 
     /// <summary>
+    /// 异步切换场景,前后两个场景重叠在一起
+    /// </summary>
+    /// <param name="sceneName"></param>
+    /// <param name="listener"></param>
+    public void LoadLevelAdditiveAsync(string sceneName, LevelListener listener)
+    {
+        m_async = null;
+        Logger.LogYellow("load level async " + sceneName + " :" + Time.realtimeSinceStartup);
+        if (m_loadingScene)
+        {
+            Logger.LogWarning("other scene is loading...");
+        }
+        else if (string.IsNullOrEmpty(sceneName))
+        {
+            Logger.LogWarning("scene name is null");
+        }
+        else if (listener == null)
+        {
+            Logger.LogWarning("linster is null: " + listener);
+        }
+        else
+        {
+            m_loadingSceneName = sceneName;
+            m_levelListener = listener;
+            SetStartLoading();
+            m_async = Application.LoadLevelAdditiveAsync(sceneName);
+            m_async.allowSceneActivation = false;
+            m_bAlmostLoaded = false;
+        }
+    }
+
+    /// <summary>
     /// 场景开始加载
     /// </summary>
     private void SetStartLoading()

@@ -6,10 +6,11 @@ using System.Collections;
 /// </summary>
 public class Game
 {
-    private GameStateMgr m_gameStateMgr = new GameStateMgr();
+    private GameStateMgr m_gameStateMgr;
 
     public void Start()
     {
+        m_gameStateMgr = new GameStateMgr();
         m_gameStateMgr.Start();
 
         InitGameState();
@@ -31,5 +32,13 @@ public class Game
     public void LateUpdate()
     {
 
+    }
+
+    public GameStateMgr GameStateMgr
+    {
+        get
+        {
+            return m_gameStateMgr;
+        }
     }
 }

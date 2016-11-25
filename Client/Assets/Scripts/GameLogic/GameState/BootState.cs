@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+internal class BootStateParam : GameStateParam
+{
+}
 /// <summary>
 /// 开场游戏状态
 /// </summary>
