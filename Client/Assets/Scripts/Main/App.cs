@@ -10,6 +10,7 @@ public class App
     private static App m_app;
     private LevelMgr m_levelMgr = new LevelMgr();
     private ResourcesMgr m_resourcesMgr = new ResourcesMgr();
+    private StringResMgr m_stringResMgr = new StringResMgr();
     private Game m_game = new Game();
     GameObject m_globalGameObject;
 
@@ -69,6 +70,14 @@ public class App
         get
         {
             return m_app.m_resourcesMgr;
+        }
+    }
+
+    public static StringResMgr StringResMgr
+    {
+        get
+        {
+            return m_app.m_stringResMgr;
         }
     }
 }

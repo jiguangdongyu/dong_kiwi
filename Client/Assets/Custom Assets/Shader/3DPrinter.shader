@@ -13,8 +13,8 @@ Shader "Custom/Dong/3DPrinter" {
 		LOD 200
 		
 		CGPROGRAM
-		//#pragma surface surf Lambert
-		#pragma surface surf Unlit fullforwardshadows
+		#pragma surface surf Lambert
+		//#pragma surface surf Unlit fullforwardshadows
 
 		sampler2D _MainTex;
 		half4 _ConstructColor;

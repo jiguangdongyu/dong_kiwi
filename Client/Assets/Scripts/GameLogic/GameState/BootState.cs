@@ -17,11 +17,20 @@ public class BootState : GameState
     public override void Enter(GameStateParam param)
     {
         Logger.Log("enter boot state");
+        GamePrepare();
     }
 
     public override void Exit()
     {
 
+    }
+
+    /// <summary>
+    /// 启动第一场景后加载游戏所需的数据
+    /// </summary>
+    private void GamePrepare()
+    {
+        App.StringResMgr.InitStringConf();
     }
 
     public override void OnGUI()

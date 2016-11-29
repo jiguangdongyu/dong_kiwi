@@ -7,6 +7,7 @@ using System.Collections;
 public class Game
 {
     private GameStateMgr m_gameStateMgr;
+    private GUIFrameMgr m_guiFrameMgr;
 
     public void Start()
     {
@@ -39,6 +40,14 @@ public class Game
         get
         {
             return m_gameStateMgr;
+        }
+    }
+
+    public GUIFrameMgr GUIFrameMgr
+    {
+        get
+        {
+            return m_guiFrameMgr;
         }
     }
 }
