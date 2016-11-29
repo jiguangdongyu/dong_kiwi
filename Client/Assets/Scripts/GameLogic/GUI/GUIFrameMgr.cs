@@ -113,7 +113,7 @@ public class GUIFrameMgr
             {
                 foreach (int frameId in m_activeList)
                 {
-
+                    topDepth = (int)
                 }
             }
         }
